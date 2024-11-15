@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from "next/image"
 import Picture from "@/app/assets/images/profile.png"
-import { BiColor } from 'react-icons/bi'
+
 
 
 const Hero = () => {
